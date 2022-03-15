@@ -13,7 +13,6 @@ body{
 img.kokugo{
    width:500px;
    height: 500px;
-    text-align: center;
 }
 
 .sugaku{
@@ -27,7 +26,6 @@ img.kokugo{
 img.eigo{
     width:500px;
     height: 500px;
-    text-align: center;
 }
 .ko{
     text-align: center;
