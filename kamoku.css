@@ -16,9 +16,10 @@ img.kokugo{
     text-align: center;
 }
 
-img.sugaku{
+.sugaku{
     width: 500px;
     height: 500px;
+    margin: auto;
 }
 .it{
     text-align: center;
@@ -33,4 +34,45 @@ img.eigo{
 }
 .ei{
     text-align: center;
+}
+
+
+#contents{
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+header{
+    height: 100px;
+}
+
+main{
+    width: 30%;
+}
+
+aside{
+    padding: 20px;
+}
+
+.container{
+    display: flex;
+    padding: 20px;
+    background: rgba(0, 83, 139, 0.075);
+}
+
+footer{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+.kou{
+    width: 200px;
+    height: 200px;
+}
+
+.k{
+    font-size: 30px;
+    margin: 0 auto;
 }
