@@ -10,16 +10,27 @@ h1{
 body{
     background-image: url(img/kuukan36.png);
 }
-.kokugo{
-    size:40px;
+img.kokugo{
+   width:500px;
+   height: 500px;
     text-align: center;
 }
-.sugaku{
+
+img.sugaku{
     width: 500px;
+    height: 500px;
+}
+.it{
+    text-align: center;
+}
+img.eigo{
+    width:500px;
     height: 500px;
     text-align: center;
 }
-.eigo{
-    size:40px;
+.ko{
+    text-align: center;
+}
+.ei{
     text-align: center;
 }
