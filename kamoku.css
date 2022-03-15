@@ -10,3 +10,12 @@ h1{
 body{
     background-image: url(img/kuukan36.png);
 }
+.kokugo{
+    size:40px;
+}
+.sugaku{
+    size:40px;
+}
+.eigo{
+    size:40px;
+}
